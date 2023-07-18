@@ -1,4 +1,9 @@
-*.css linguist-language=html
-*.less linguist-language=html
-*.js linguist-language=html
-*.html linguist-language=html
+*.md linguist-language=matlab
+*.yml linguist-language=matlab
+*.html linguist-language=matlab 
+*.js linguist-language=matlab
+*.xml linguist-language=matlab
+*.css linguist-language=matlab
+*.sql linguist-language=matlab
+*.uml linguist-language=matlab
+*.cmd linguist-language=matlab
