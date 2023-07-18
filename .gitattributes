@@ -1,5 +1,4 @@
-*.html linguist-language=matlab
-*.css linguist-language=matlab
-*.c++ linguist-language=matlab
-*.java linguist-language=matlab
-*.matlab linguist-language=matlab
+*.css linguist-language=html
+*.less linguist-language=html
+*.js linguist-language=html
+*.html linguist-language=html
